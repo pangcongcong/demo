@@ -1,6 +1,5 @@
 <template>
   <swiper
-    :indicator-dots="bannerIndicatorDots"
     :current="bannerIndex"
     :autoplay="true"
     interval="5000"
